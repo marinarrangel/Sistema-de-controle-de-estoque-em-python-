@@ -8,7 +8,6 @@ preco = ''
 preco_geral_produtos = []
 estoque_geral = produtos
 
-
 while True:
 
     print('\n------ |SISTEMA DE ORGANIZAÇÃO DE ESTOQUE| ------')
@@ -20,8 +19,6 @@ while True:
     print('6 - Consultar produto')
     print('7 - Voltar ao menu')
     print('8 - Sair')
-
-
 
     opcao = input(f'Escolha uma opção: ')
 
